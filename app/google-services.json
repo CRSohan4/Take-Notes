@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "992887349842",
+    "firebase_url": "https://take-notes-1e545.firebaseio.com",
+    "project_id": "take-notes-1e545",
+    "storage_bucket": "take-notes-1e545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992887349842:android:1aa18279d32285bd",
+        "android_client_info": {
+          "package_name": "com.example.crplayer.takenotesnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992887349842-mnp558876mh8e1nipp3kumsueegnodmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crplayer.takenotesnew",
+            "certificate_hash": "727488b0a61fb73d3a3e168001dbd5c690f69252"
+          }
+        },
+        {
+          "client_id": "992887349842-mq9fkor7dgahrbjl0g2dvijediqicucf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "992887349842-mq9fkor7dgahrbjl0g2dvijediqicucf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZszpKoeVQ8GOHJhFkalaqLNAIKsXWm2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992887349842-mq9fkor7dgahrbjl0g2dvijediqicucf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
